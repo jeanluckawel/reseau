@@ -1,0 +1,33 @@
+body{
+	background: #f1f1f1f1;
+	font-family: neza;
+	font-size: 20px;
+	color: rgba(0, 0, 0, 0.5);
+	margin: 0;
+	line-height: 55px;
+	text-align: center;
+}
+a {
+	color: white;
+}
+.topbar{
+	background: #ff6600;
+	color: white;
+}
+.topbar a{
+	display: înline-block;
+	margin: 12px;
+	color: white;
+	text-decoration: none;
+}
+button{
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-family: montserrat,sans-serif;
+	font-size: 30px;
+	border: none;
+	background:#ff6600 ;
+	border-radius: 30px;
+
+}
